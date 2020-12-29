@@ -1,7 +1,7 @@
 /* Global Variables */
 
 // api key from openWeatherMap
-const weatherApiKey = "2d0f2126063762f53766ac5883919c38";
+const weatherApiKey = "";
 // base url of openWeatherMap
 const baseUrl = `http://api.openweathermap.org/data/2.5/weather`;
 
